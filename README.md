@@ -12,11 +12,15 @@
 
 ## 🔧 使用方法
 1. 点击 **代码** ，点击**下载ZIP压缩包**，解压。
+
 2. 下载后，打开 **Voicepeak** 
+
 3. 点击**词典**图标
 <img width="854" height="514" alt="教程1png" src="https://github.com/user-attachments/assets/df9547a8-c0ed-4427-b3ab-ecb9acde8ee8" />
+
 4. 点击右上角的三点，点击**导入词典**
 <img width="341" height="280" alt="教程2" src="https://github.com/user-attachments/assets/d6e29640-12fe-4cbe-9e0a-0a7133f7f6d6" />
+
 5.选择刚刚下载的**词典库_中文.vdc2**文件
 
 ## 📖 数据来源
