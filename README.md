@@ -167,4 +167,4 @@ A：不会。只动 `user-dictionary` 目录，`Keys` 授权文件不碰。
 
 ---
 
-*切换方法基于 VoicePeak 1.2.23 实测。如你的版本路径不同，欢迎提 Issue 补充。*
+*切换方法基于 VoicePeak 1.2.23 实测。欢迎提 Issue 补充。*
